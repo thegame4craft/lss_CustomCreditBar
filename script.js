@@ -14,6 +14,8 @@ var Coins = document.getElementById("coins_top").innerHTML;
 var credits = document.getElementById("navigation_top");
 var coins = document.getElementById("coins_top");
 
+console.log("hello world");
+
 
 // remove things, that i don't need. You can disable if you add "//" before the line that you disable.
 document.getElementById("news_li").classList.add("hidden");
